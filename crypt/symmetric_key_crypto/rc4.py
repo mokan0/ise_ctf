@@ -1,6 +1,6 @@
 # p.271-の写経
 # Ronald Rivestによって開発されたストリーム暗号
-#
+# ARC4と呼ばれる
 
 def KSA(key):
     """
